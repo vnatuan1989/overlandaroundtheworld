@@ -1,0 +1,820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: about-me-pro\n"
+"POT-Creation-Date: 2018-10-20 13:18+0530\n"
+"PO-Revision-Date: 2018-10-20 13:18+0530\n"
+"Last-Translator: Mubrak ali <ansari9731@gmail.com>\n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: ../languages\n"
+
+#: aatp-banner.php:15
+msgid "About Author Pro Features"
+msgstr ""
+
+#: aatp-banner.php:17
+#, fuzzy
+#| msgid "Profile Image Layout"
+msgid "More Profile Image Layout"
+msgstr "छवि लेआउट"
+
+#: aatp-banner.php:18
+#, fuzzy
+#| msgid "Upload Header Background Image"
+msgid "Profile Header background"
+msgstr "अपलोड हैडर बैकग्राउंड इमेज"
+
+#: aatp-banner.php:19
+#, fuzzy
+#| msgid "Activate About me pro Widget"
+msgid "Multiple Author Widget"
+msgstr "अबाउट मी शोर्ट कोड  एंड विजेट "
+
+#: aatp-banner.php:20
+#, fuzzy
+#| msgid "All About me Shortcode"
+msgid "Multiple Author Shortcode"
+msgstr "अबाउट मी शोर्ट कोड "
+
+#: aatp-banner.php:21
+msgid "10 Design Author Template"
+msgstr ""
+
+#: aatp-banner.php:22
+#, fuzzy
+#| msgid "Profile Image Layout"
+msgid "Multiple Author Image Layout"
+msgstr "छवि लेआउट"
+
+#: aatp-banner.php:23
+msgid "8 Type of Hover Animations"
+msgstr ""
+
+#: aatp-banner.php:24
+msgid "More Social Media Settings"
+msgstr ""
+
+#: aatp-banner.php:25
+msgid "Responsive Design & Many More"
+msgstr ""
+
+#: aatp-banner.php:30
+#, fuzzy
+#| msgid "View Site"
+msgid "View Demo"
+msgstr "साईट देखे"
+
+#: aatp-banner.php:32
+msgid "Buy Now"
+msgstr ""
+
+#: about-author-use-shortcode.php:132 author-setting/about-author-use-shortcode2.php:172
+msgid "Sorry! Invalid About me Shortcode Embedded"
+msgstr "माफ़ करे गलत अबाउट मी शोर्ट कोड जोड़ा "
+
+#: about-author-widget-code.php:56
+#, fuzzy
+#| msgid "Widget Title"
+msgid "About Author Widget Title"
+msgstr "विजेट शीर्षक"
+
+#: about-author-widget-code.php:61
+msgid "Select Any"
+msgstr " चयन करें।"
+
+#: about-author-widget-code.php:80 author-settings.php:156
+msgid "No Title"
+msgstr "कोई शिर्षक नहीं"
+
+#: about-author.php:55
+#, fuzzy
+#| msgid "Add settings"
+msgid "Settings"
+msgstr "सेटिंग जोड़ो"
+
+#: about-author.php:144
+#, fuzzy
+#| msgid "About Me Shortcode"
+msgid "About Author"
+msgstr "अबाउट मी शोर्ट कोड"
+
+#: about-author.php:145
+#, fuzzy
+#| msgid "About Me Shortcode"
+msgid "About Author Shortcode"
+msgstr "अबाउट मी शोर्ट कोड"
+
+#: about-author.php:146
+msgid "Date"
+msgstr "तिथि"
+
+#: about-author.php:164
+msgid " Add Images"
+msgstr "छवियां जोड़ें"
+
+#: about-author.php:164
+msgid "Select Template"
+msgstr "टेम्पलेट चुने"
+
+#: about-author.php:165
+#, fuzzy
+#| msgid "Add settings"
+msgid "Add Settings"
+msgstr "सेटिंग जोड़ो"
+
+#: about-author.php:165
+msgid "Add settings"
+msgstr "सेटिंग जोड़ो"
+
+#: about-author.php:166
+#, fuzzy
+#| msgid "About Me Shortcode"
+msgid "Copy Shortcode"
+msgstr "अबाउट मी शोर्ट कोड"
+
+#: about-author.php:167
+msgid "UpgradetoAboutAuthorPro"
+msgstr ""
+
+#: about-author.php:167 help-and-support.php:2
+#, fuzzy
+#| msgid "About Me Pro"
+msgid "About Author Pro"
+msgstr "अबाउट मी  प्रो"
+
+#: about-author.php:168
+#, fuzzy
+#| msgid "About Me Shortcode"
+msgid "Preview Shortcode"
+msgstr "अबाउट मी शोर्ट कोड"
+
+#: about-author.php:169
+#, fuzzy
+#| msgid "Activate About me pro Widget"
+msgid "Activate About Author Widget"
+msgstr "अबाउट मी शोर्ट कोड  एंड विजेट "
+
+#: about-author.php:183
+#, fuzzy
+#| msgid "Use below shortcode in any Page/Post to publish your Auther information"
+msgid "Use below shortcode in any Page/Post to publish your author information"
+msgstr "लेखक की सूचना दिखाने के लिए किसी भी पेज या पोस्ट में नीचे  दिए गए शोर्ट कोड का प्रयोग करें "
+
+#: about-author.php:206
+msgid "To activate widget into any widget area"
+msgstr "विजेट को विजेट शेत्र में चालू करने के लिए"
+
+#: about-author.php:207 help-and-support.php:9 help-and-support.php:13
+msgid "Click Here"
+msgstr "यहां क्लिक करे"
+
+#: about-author.php:208
+msgid "Find"
+msgstr "खोजे:"
+
+#: about-author.php:208
+#, fuzzy
+#| msgid ""
+#| "and place it to your widget area. Select any About Me Pro from the dropdown and "
+#| "save changes."
+msgid ""
+"Place it to your widget area. Select any About Author Shortcode from the dropdown and "
+"save widget."
+msgstr "और विजेट शेत्र में रखे और चयन करे किसी अबाउट मी प्रो का  डरौपडाउन से"
+
+#: about-author.php:312
+#, fuzzy
+#| msgid "Select About Me Shortcode And Widget To Insert Into Post"
+msgid "Select About Author Shortcode to insert with content"
+msgstr " चयन करे अबाउट मी शोर्ट कोड  एंड विजेट का पोस्ट में डालने के लिए"
+
+#: about-author.php:313
+#, fuzzy
+#| msgid "Select About Me Shortcode And Widget To Insert Into Post"
+msgid "Select About Author Shortcode to insert into content"
+msgstr " चयन करे अबाउट मी शोर्ट कोड  एंड विजेट का पोस्ट में डालने के लिए"
+
+#: about-author.php:315
+#, fuzzy
+#| msgid "About Me Shortcode And Widget"
+msgid "About Author Shortcode And Widget"
+msgstr "अबाउट मी शोर्ट कोड  एंड विजेट "
+
+#: about-author.php:333
+#, fuzzy
+#| msgid "Select About Me Shortcode And Widget To Insert Into Post"
+msgid "Select About Author Shortcode And Widget To Insert Into Post"
+msgstr " चयन करे अबाउट मी शोर्ट कोड  एंड विजेट का पोस्ट में डालने के लिए"
+
+#: about-author.php:343
+#, fuzzy
+#| msgid "Insert ABOUT ME Shortcode"
+msgid "Insert About Author Shortcode"
+msgstr "अबाउट मी शोर्ट कोड  एंड विजेट प्रो बारे में डालें"
+
+#: about-author.php:353
+msgid "Social Profile Information"
+msgstr "सोशल प्रोफाइल सूचना"
+
+#: author-settings.php:117
+msgid "Author Settings"
+msgstr "लेखक सेटिंग"
+
+#: author-settings.php:120
+#, fuzzy
+#| msgid "Display Author settings"
+msgid "Display Author Settings"
+msgstr "लेखक सेटिंग दिखाए"
+
+#: author-settings.php:123
+msgid "On page"
+msgstr "पेज पर"
+
+#: author-settings.php:125 author-settings.php:131 author-settings.php:172
+#: author-settings.php:179 author-settings.php:187
+#, fuzzy
+#| msgid "yes"
+msgid "Yes"
+msgstr "हाँ"
+
+#: author-settings.php:126 author-settings.php:132 author-settings.php:173
+#: author-settings.php:180 author-settings.php:188
+msgid "No"
+msgstr ""
+
+#: author-settings.php:130
+msgid "On post"
+msgstr "पोस्ट पर"
+
+#: author-settings.php:135
+msgid "Select Template Style"
+msgstr "प्रभाव शैली का चयन करे "
+
+#: author-settings.php:145
+msgid "Choose one"
+msgstr "एक चुने"
+
+#: author-settings.php:167
+#, fuzzy
+#| msgid "Display on post or page"
+msgid "Display On Post OR Page"
+msgstr "पेज और पोस्ट पर दिखाए"
+
+#: author-settings.php:170
+msgid "Name"
+msgstr "नाम"
+
+#: author-settings.php:176
+msgid "Website Name"
+msgstr "वेबसाइट का नाम"
+
+#: author-settings.php:184
+msgid "Biographical Info"
+msgstr "बायोग्राफिकल सूचना"
+
+#: author-settings.php:192
+msgid "Author label settings"
+msgstr "लेखक लेबल सेटिंग"
+
+#: author-settings.php:194
+msgid "Author label text"
+msgstr "लेखक लेबल टेक्स्ट"
+
+#: author-settings.php:200 settings/general-settings.php:195
+#: settings/general-settings.php:210 settings/general-settings.php:227
+msgid "Font size"
+msgstr "फ़ॉन्ट शैली"
+
+#: author-settings.php:207
+msgid "Background Color"
+msgstr "पीछे की छवि"
+
+#: author-settings.php:213
+msgid "Font Color"
+msgstr "शब्दों का रंग"
+
+#: author-settings.php:217 settings/general-settings.php:281
+#: settings/general-settings.php:283
+msgid "Font Family"
+msgstr "फ़ॉन्ट शैली"
+
+#: author-settings.php:265 settings/general-settings.php:332
+msgid "Choose a caption font style."
+msgstr "एक शीर्षक फ़ॉन्ट शैली चुनें ।"
+
+#: help-and-support.php:4
+msgid ""
+"About Auhor pro is an  plug-in & widget with a lot of features and options for "
+"customizes author information for different views"
+msgstr ""
+
+#: help-and-support.php:7
+msgid "View Support Docs or Open a Ticket"
+msgstr "दृष्टिकोण का समर्थन डॉक्स या एक टिकट खुला"
+
+#: help-and-support.php:11
+msgid "View Plugin Documentation"
+msgstr ""
+
+#: help-and-support.php:15
+msgid "Rate Us"
+msgstr ""
+
+#: help-and-support.php:16
+msgid "If you are enjoying using our"
+msgstr ""
+
+#: help-and-support.php:17
+msgid "plugin and find it useful"
+msgstr ""
+
+#: help-and-support.php:18
+msgid "then please consider writing a positive feedback"
+msgstr ""
+
+#: help-and-support.php:19
+msgid ""
+"Your feedback will help us to encourage and support the plugin continued development "
+"and better user support"
+msgstr ""
+
+#: help-and-support.php:31
+msgid "Share Us Your Suggestion"
+msgstr ""
+
+#: help-and-support.php:32
+msgid "If you have any suggestion or features in your mind then please share us"
+msgstr ""
+
+#: help-and-support.php:33
+msgid "We will try our best to add them in this plugin"
+msgstr ""
+
+#: help-and-support.php:35
+msgid "Language Contribution"
+msgstr ""
+
+#: help-and-support.php:36
+msgid "Translate this plugin into your language"
+msgstr ""
+
+#: help-and-support.php:37
+msgid "Question"
+msgstr ""
+
+#: help-and-support.php:38
+msgid "How to convert Plguin into My Language "
+msgstr ""
+
+#: help-and-support.php:39
+msgid "Answer"
+msgstr ""
+
+#: help-and-support.php:40
+msgid "Contact as to"
+msgstr ""
+
+#: help-and-support.php:41
+msgid "for translate this plugin into your language"
+msgstr ""
+
+#: recommendations.php:54
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: recommendations.php:121
+msgid "More Details"
+msgstr ""
+
+#: recommendations.php:132
+msgid "Install Now"
+msgstr ""
+
+#: recommendations.php:139
+msgid "Update Now"
+msgstr ""
+
+#: recommendations.php:183 recommendations.php:193 recommendations.php:203
+#: recommendations.php:213 recommendations.php:223 recommendations.php:233
+#, fuzzy
+#| msgid "Premium Plugins"
+msgid "Premium Editions"
+msgstr "प्रीमियम प्लगिन"
+
+#: recommendations.php:186 recommendations.php:196 recommendations.php:206
+#: recommendations.php:216 recommendations.php:226 recommendations.php:236
+msgid "Visit Website"
+msgstr ""
+
+#: recommendations.php:254
+msgid "Last Updated:"
+msgstr ""
+
+#: recommendations.php:265
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr ""
+
+#: recommendations.php:268
+msgid "Incompatible with your version of WordPress"
+msgstr ""
+
+#: recommendations.php:270
+msgid "Compatible with your version of WordPress"
+msgstr ""
+
+#: settings/general-settings.php:136
+msgid "Profile Image Layout"
+msgstr "छवि लेआउट"
+
+#: settings/general-settings.php:150
+msgid "Profile Image Layout settings"
+msgstr "छवि लेआउट सेटिंग"
+
+#: settings/general-settings.php:151
+#, fuzzy
+#| msgid "Border size"
+msgid "Border style"
+msgstr "बॉर्डर आकर"
+
+#: settings/general-settings.php:167
+msgid "Border size"
+msgstr "बॉर्डर आकर"
+
+#: settings/general-settings.php:173
+msgid "Border Color"
+msgstr " बॉर्डर रंग"
+
+#: settings/general-settings.php:178
+#, fuzzy
+#| msgid "BackgroundColor"
+msgid "BackgroundColor option"
+msgstr "पीछे का रंग"
+
+#: settings/general-settings.php:183
+msgid "BackgroundColor"
+msgstr "पीछे का रंग"
+
+#: settings/general-settings.php:188
+#, fuzzy
+#| msgid "Name Information Settings"
+msgid "Name Text Settings"
+msgstr "नाम सूचना सेटिंग"
+
+#: settings/general-settings.php:190
+#, fuzzy
+#| msgid "Name"
+msgid "Name Text"
+msgstr "नाम"
+
+#: settings/general-settings.php:200 settings/general-settings.php:271
+msgid "Color"
+msgstr "रंग"
+
+#: settings/general-settings.php:204
+#, fuzzy
+#| msgid "Website Information Settings"
+msgid "Website Text Settings"
+msgstr "वेबसाइट सूचना सेटिंग"
+
+#: settings/general-settings.php:206
+#, fuzzy
+#| msgid "Website Name"
+msgid "Website Name Text"
+msgstr "वेबसाइट का नाम"
+
+#: settings/general-settings.php:215
+msgid "Website Link Color"
+msgstr "लिंक"
+
+#: settings/general-settings.php:218
+#, fuzzy
+#| msgid "Discription Information Settings"
+msgid "Description Text Settings"
+msgstr "विवरण सूचना सेटिंग"
+
+#: settings/general-settings.php:220
+#, fuzzy
+#| msgid "Discription Text Color"
+msgid "Description Text"
+msgstr "विवरण टेक्स्ट रंग"
+
+#: settings/general-settings.php:222
+#, fuzzy
+#| msgid "Note: Maximum words for Discription are 325."
+msgid "Note: Maximum words for Description are 325."
+msgstr "नोट: विवरण के लिए शब्द सीमा 325"
+
+#: settings/general-settings.php:231
+#, fuzzy
+#| msgid "Discription Text Color"
+msgid "Description Text Color"
+msgstr "विवरण टेक्स्ट रंग"
+
+#: settings/general-settings.php:235
+#, fuzzy
+#| msgid "Social link"
+msgid "Social link Settings"
+msgstr "सोशल लिंक"
+
+#: settings/general-settings.php:237
+msgid "Facebook"
+msgstr "फेसबुक"
+
+#: settings/general-settings.php:242
+msgid "Twitter"
+msgstr "ट्विटर"
+
+#: settings/general-settings.php:247
+msgid "Google"
+msgstr "गूगल"
+
+#: settings/general-settings.php:252
+msgid "LinkedIn"
+msgstr "लिंक्डीन"
+
+#: settings/general-settings.php:257
+msgid "Pinterest"
+msgstr "पिन्तेरेस्ट"
+
+#: settings/general-settings.php:263
+msgid "Instagram"
+msgstr "इन्स्ताग्राम"
+
+#: settings/general-settings.php:269
+msgid "Social Link Color"
+msgstr "सोशल लिंक रंग"
+
+#: settings/general-settings.php:274
+msgid "Social icon size"
+msgstr "छवि सीमा आकार"
+
+#: settings/general-settings.php:276
+msgid "Size"
+msgstr "आकार"
+
+#: settings/general-settings.php:338 settings/general-settings.php:341
+msgid "Custom CSS"
+msgstr "कस्टम css"
+
+#: settings/general-settings.php:344
+#, fuzzy
+#| msgid ""
+#| "Enter any custom css you want to apply on this shortcode.\n"
+#| "\t\t\t\t\t\tNote: Please Do Not Use Style Tag With Custom CSS."
+msgid "Enter any custom css you want to apply on this shortcode."
+msgstr ""
+" कस्टम css डाले जिसे आप चाहते लागू करना इस शोर्ट कोड पर : कृपया style टैग का इस्तेमाल न करे"
+
+#: settings/template-settings.php:196
+msgid "Template 1"
+msgstr "प्रभाव 1"
+
+#: settings/template-settings.php:203
+msgid "Template 2"
+msgstr "प्रभाव 2"
+
+#: settings/template-settings.php:210
+msgid "Template 3"
+msgstr "प्रभाव 3"
+
+#: settings/template-settings.php:217
+msgid "Template 4"
+msgstr "प्रभाव 4"
+
+#: settings/template-settings.php:224
+msgid "Template 5"
+msgstr "प्रभाव 5"
+
+#: settings/template-settings.php:231
+msgid "Template 6"
+msgstr "प्रभाव 6"
+
+#: settings/template-settings.php:238
+msgid "Template 7"
+msgstr "प्रभाव 7"
+
+#: settings/template-settings.php:245
+msgid "Template 8"
+msgstr "प्रभाव 8"
+
+#: settings/template-settings.php:252
+msgid "Template 9"
+msgstr "प्रभाव 9"
+
+#: settings/template-settings.php:259
+msgid "Template 10"
+msgstr "प्रभाव 10"
+
+#: settings/template1.php:18
+msgid "Template Style 1"
+msgstr "प्रभाव 1"
+
+#: settings/template1.php:29 settings/template2.php:28
+msgid "Upload profile Image"
+msgstr "अपलोड़ प्रोफाइल इमेज"
+
+#: settings/template1.php:32 settings/template2.php:31 settings/template2.php:43
+msgid "No media selected!"
+msgstr "कोई  मीडिया नहीं जोड़ा गया"
+
+#: settings/template1.php:33 settings/template2.php:32 settings/template2.php:44
+msgid "Upload"
+msgstr "अपलोड"
+
+#: settings/template1.php:35
+msgid "*Upload profile Image size should be 200*200 pixel maximum and 150*150 minimum"
+msgstr "अपलोड प्रोफाइल इमेज का साइज़ कम से कम  150*150 और अधिक से अधिक 200*200 पिक्सेल रखे"
+
+#: settings/template2.php:19
+msgid "Template Style 2"
+msgstr "प्रभाव 2"
+
+#: settings/template2.php:34
+msgid "*Upload profile image size should be 200*200 pixel maximum and 150*150 minimum"
+msgstr "अपलोड प्रोफाइल इमेज का साइज़ कम से कम 150*150 और अधिक से अधिक 200*200 पिक्सेल रखे"
+
+#: settings/template2.php:41
+msgid "Upload Header Background Image"
+msgstr "अपलोड हैडर बैकग्राउंड इमेज"
+
+#: settings/template2.php:46
+msgid ""
+"*Upload header background image size should be 800*150 pixel maximum and 600*150 "
+"minimum"
+msgstr "*अपलोड  हैडर बैकग्राउंड इमेज का साइज़ कम से कम 600*150 और अधिक से अधिक 800*150 पिक्सेल रखे"
+
+#~ msgid "About me Shortcode & Widget Pro"
+#~ msgstr "अबाउट मी शोर्ट कोड  एंड विजेट प्रो"
+
+#~ msgid "About me Shortcode And Widget Pro"
+#~ msgstr "शोर्ट कोड  एंड विजेट प्रो"
+
+#~ msgid "Add New "
+#~ msgstr "नया विकल्प जोड़ें:"
+
+#~ msgid "Edit About me"
+#~ msgstr "सम्पादित अबाउट मी"
+
+#~ msgid "New About me"
+#~ msgstr "नया अबाउट मी "
+
+#~ msgid "View About_me"
+#~ msgstr "अबाउट मी शोर्ट देखें"
+
+#~ msgid "Search About me"
+#~ msgstr " अबाउट मी खोजे"
+
+#~ msgid "No data found"
+#~ msgstr "कोई संग्रह नही मिला"
+
+#~ msgid "No data found in Trash"
+#~ msgstr "कचरे में कोई संग्रह नही मिला "
+
+#~ msgid "Parent About_me:"
+#~ msgstr "प्रमुख अबाउट मी "
+
+#~ msgid "ABOUT ME"
+#~ msgstr "अबाउट मी "
+
+#~ msgid "ABOUT ME Shortcode"
+#~ msgstr "अबाउट मी शोर्ट कोड"
+
+#~ msgid "Add set-tt-ings"
+#~ msgstr "सेटिंग जोड़ो"
+
+#~ msgid "About Me Preview Box"
+#~ msgstr "अबाउट मी प्रीव्यू बॉक्स"
+
+#~ msgid "Select ABOUT ME to insert into post"
+#~ msgstr " चयन करें किसी भी अबाउट मी का पोस्ट में डालने के लिए"
+
+#~ msgid "No ABOUT ME found"
+#~ msgstr "कोई अबाट मी नहीं मिला"
+
+#~ msgid "no"
+#~ msgstr "नहीं"
+
+#~ msgid "Weblizar Responsive WordPress Theme"
+#~ msgstr " Weblizar  रेस्पोंसिव वर्डप्रेस थीम"
+
+#~ msgid "Get The Premium, And Create your website Beautifully."
+#~ msgstr "प्रीमियम थीम प्राप्त करे और अपनी खूबसूरत वेबसाइट बनाये"
+
+#~ msgid "Premium Themes"
+#~ msgstr "प्रीमियम थीम"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Weblizar"
+#~ msgstr "बस एक और Weblizar विषय"
+
+#~ msgid "Guardian"
+#~ msgstr "Guardian"
+
+#~ msgid "Green-lantern"
+#~ msgstr "Green-lantern"
+
+#~ msgid "Creative "
+#~ msgstr "Creative "
+
+#~ msgid "Incredible"
+#~ msgstr "Incredible"
+
+#~ msgid "Ultimate Responsive Image Slider"
+#~ msgstr "Ultimate Responsive Image Slider"
+
+#~ msgid "Responsive Photo Gallery"
+#~ msgstr "Responsive Photo Gallery"
+
+#~ msgid "Responsive Portfolio"
+#~ msgstr "Responsive Portfolio"
+
+#~ msgid "Lightbox Slider"
+#~ msgstr "Lightbox Slider"
+
+#~ msgid "Flickr Album Gallery"
+#~ msgstr "Flickr Album Gallery"
+
+#~ msgid "Instagram Shortcode & Widget"
+#~ msgstr "मेरे बारे में शोर्ट और विजेट प्रो"
+
+#~ msgid "Gallery Pro Weblizar"
+#~ msgstr "Gallery Pro Weblizar"
+
+#~ msgid ""
+#~ "Note: More details to click on weblizar Products site link are below given view "
+#~ "site button."
+#~ msgstr "सूचना:अधिक जानकर्री नीचे दिए गए लिंक पर क्लिक करे"
+
+#~ msgid "Border"
+#~ msgstr "बॉर्डर"
+
+#~ msgid "General option"
+#~ msgstr "सामान्य विकल्प"
+
+#~ msgid "Discription"
+#~ msgstr "विवरण"
+
+#~ msgid "Flickr"
+#~ msgstr "फ्लिकर"
+
+#~ msgid "Tumblr"
+#~ msgstr "टम्बलर"
+
+#~ msgid "Bitbucket"
+#~ msgstr "बिटबकेट"
+
+#~ msgid "Dropbox"
+#~ msgstr "ड्रापबॉक्स"
+
+#~ msgid "Github"
+#~ msgstr "गीटहब"
+
+#~ msgid "VK"
+#~ msgstr "वीके"
+
+#~ msgid "Template Style 10"
+#~ msgstr "प्रभाव 10"
+
+#~ msgid "Upload Background Image"
+#~ msgstr "*अपलोड बैकग्राउंड इमेज"
+
+#~ msgid ""
+#~ "*Upload background image size should be 1000*700 pixel maximum and 900*700 minimum"
+#~ msgstr "*अपलोड  बैकग्राउंड इमेज का साइज़ कम से कम 900*700 और अधिक से अधिक 1000*700 पिक्सेल रखे"
+
+#~ msgid "Template Style 3"
+#~ msgstr "प्रभाव 3"
+
+#~ msgid "Template Style 4"
+#~ msgstr "प्रभाव 4"
+
+#~ msgid "Template Style 5"
+#~ msgstr "प्रभाव 5"
+
+#~ msgid "Template Style 6"
+#~ msgstr "प्रभाव 6"
+
+#~ msgid "Template Style 7"
+#~ msgstr "प्रभाव 7"
+
+#~ msgid ""
+#~ "*Upload profile image size should be 200*200 pixel maximum and 150*150 minimum "
+#~ msgstr "*अपलोड प्रोफाइल इमेज का साइज़ कम से कम 150*150 और अधिक से अधिक 200*200 पिक्सेल रखे"
+
+#~ msgid "Template Style 8"
+#~ msgstr "प्रभाव 8"
+
+#~ msgid "Template Style 9"
+#~ msgstr "प्रभाव 9"
