@@ -1,0 +1,27 @@
+.upg_anch{
+  text-decoration: none;
+    color: #fff;
+    padding: 12px;
+    background-color: #3ea65a;
+}
+.update_pro_button a {
+    font-size: 24px;
+    color: #fff;
+    padding: 13px;
+    background: #f16464;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    border-radius: 4px;
+}
+
+#titlediv #title-prompt-text {
+    padding: 4px 10px;
+}
+.update_pro_button a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+img.aatp_getpro.img-responsive {
+    width: 100%;
+}

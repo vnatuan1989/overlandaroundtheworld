@@ -1,0 +1,258 @@
+body {
+	direction: rtl;
+    overflow-x: hidden;
+}
+.left {
+    float: right;
+}
+.right {
+    float: left
+}
+header .s {
+    left: 40px;
+    right: auto
+}
+.header-search,
+.header-cart,
+.header-links {
+    float: left
+}
+.header-search {
+    margin-left: 0;
+    margin-right: 5px
+}
+.header-cart {
+    float: left !important;
+    padding: 20px 8px 0 0 !important
+}
+.top-bar span {
+    margin-left: 25px;
+    margin-right: 0;
+}
+.header-2 .header-links,
+.header-8 .header-links,
+.header-9 .header-links {
+    float: right
+}
+.header-1 .logo-wrap {
+    float: right
+}
+.header-1 .main-navigation {
+    float: left
+}
+.header-3 .header-links {
+    float: right
+}
+.main-navigation { float:left }
+.nav-menu .menu li:hover > ul {
+    left:auto;
+	right:0;
+}
+.menu .menu-item-has-children ul a::after {
+    border-color: transparent rgba(0, 0, 0, 0.2) transparent transparent;
+    left: 10px;
+    right: auto;
+}
+.menu .menu-item-has-children > a::after {
+    left: 0;
+    right: auto
+}
+.menu .menu-item-has-children a {
+    padding-left: 14px;
+    padding-right: 0
+}
+.side-sub-menu {
+    left: 0 !important;
+    right: auto !important
+}
+.nav-menu .menu li ul {
+    left: auto;
+    right: 0;
+}
+.nav-menu .menu li ul ul {
+    left: auto;
+    right: 180px
+}
+#navigation .menu li:hover ul {
+    right:0
+}
+#navigation ul.menu li li:hover ul {
+    right:180px
+}
+#navigation ul.menu li {
+    text-align:right
+}
+.menu .fa {
+	margin-left:5px;
+	margin-right:0
+}
+.nav-menu ul.menu li li:hover ul {
+	left:auto;
+	right:180px;
+}
+.menu-btn {
+    float: right;
+    margin-left: 5px !important;
+    margin-right: 0 !important;
+    padding: 18px 5px 18px 20px !important;
+}
+.mobile-menu {
+    left: auto;
+    right: -300px;
+}
+.openNav .mobile-menu {
+    left: auto;
+    right: 0;
+}
+.menu-pusher {
+    left: auto;
+    right: 0
+}
+.openNav .menu-pusher {
+    left: auto;
+    right: 300px
+}
+.featuredslider .post-inner {
+    text-align: right
+}
+.tagcloud a,
+.comment-form .submit,
+.reply,
+.s {
+    float:left
+}
+.s {
+    padding-left:0;
+    padding-right:3%
+}
+.breadcrumbs i {
+    margin-left: 4px;
+    margin-right: 0
+}
+.post-cats span {
+    margin-right: 0;
+    margin-left: 5px
+}
+.post-cats a:before {
+    left: auto;
+    right: -12px
+}
+.post-cats .post-type {
+    margin-left: 9px;
+    margin-right: 12px !important;
+}
+.post-meta-top .post-date {
+    margin-left: 0;
+    margin-right: 14px
+}
+.post-meta-top .post-date:before {
+	left: auto;
+	right: -12px
+}
+.post-meta-title span:first-child {
+    margin-right: 0
+}
+.post-meta-title span:last-child:before {
+    content: '-'
+}
+.post-meta-title span:first-child:before {
+    content: ''
+}
+.post-avtar,
+.post-author-date {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.post-meta .post-comments {
+    float: left;
+}
+.post-meta .post-comments a {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 5px;
+}
+.post-meta .post-comments a:before {
+    left: 0;
+    right: auto;
+    border-left-width: 0;
+    border-right-width: 5px
+}
+.post .sd-content ul li:before {
+    display: none
+}
+.read-more a:before,
+.more-link:before {
+    left: -60px;
+    right: auto;
+    transform: rotate(225deg)
+}
+.read-more a:after,
+.more-link:after {
+    left: -45px;
+    right: auto
+}
+.section-heading:before {
+    left: 0;
+    right: auto
+}
+.widget li {
+    margin-right: 20px;
+    margin-left: 0
+}
+.widget li:before {
+    content: "\f053";
+    left: auto;
+    right: -20px
+}
+.widget .children,
+.widget .sub-menu {
+    padding-left: 0
+}
+.widget .menu .menu-item-has-children a {
+    padding-left: 0;
+    padding-right: 0
+}
+.widget .sub-menu .sub-menu .sub-menu .sub-menu li {
+    margin-right: 0
+}
+.footer-widget .widget-title:before {
+    left: 0;
+    right: auto;
+}
+.post-comments {
+    float: left
+}
+.widget ul { direction:rtl; }
+.cat-count {
+    float: left
+}
+.meta span {
+    margin-left: 10px;
+    margin-right: 0
+}
+.comment-respond {
+    overflow: hidden
+}
+.post-meta .post-type .fa {
+    display: inline-block
+}
+.entry-content ul li {
+	margin-left: 0;
+	margin-right: 25px
+}
+.entry-content ul li:before {
+	content: "\f104";
+	left: auto;
+	right: -25px
+}
+.pagination span,
+.pagination a {
+    margin:0 0 0 10px
+}
+.comments-area .avatar {
+    float:right;
+    margin-left:2%;
+	margin-right:0
+}
+.comment-meta {
+    float: left;
+}

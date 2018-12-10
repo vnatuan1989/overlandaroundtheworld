@@ -1,0 +1,88 @@
+.customize-divide {
+	background:#f2f2f2;
+	padding:10px 8px;
+	text-align:center;
+}
+.customizer-control-row {
+	float:left;
+    height:75px;
+	margin:0 10px 10px 0;
+    overflow:hidden;
+    position:relative;
+    vertical-align:top;
+    width:90px;
+}
+.customizer-control-row input,
+.customizer-control-row label { width:100% }
+.customizer-control-row input {
+	height:100%;
+	opacity:0;
+	position:absolute
+}
+.customizer-control-row label {
+	display:block;
+	height:75px
+}
+
+/* Main Layout */
+#customize-control-main_layout .customizer-control-row:nth-child(1) input[type="radio"] + label,
+#customize-control-single_layout .customizer-control-row:nth-child(1) input[type="radio"] + label,
+#customize-control-archive_layout .customizer-control-row:nth-child(1) input[type="radio"] + label { background:url('../images/layouts/cb.png') no-repeat }
+#customize-control-main_layout .customizer-control-row:nth-child(2) input[type="radio"] + label,
+#customize-control-single_layout .customizer-control-row:nth-child(2) input[type="radio"] + label,
+#customize-control-archive_layout .customizer-control-row:nth-child(2) input[type="radio"] + label { background:url('../images/layouts/bc.png') no-repeat }
+#customize-control-main_layout .customizer-control-row:nth-child(3) input[type="radio"] + label,
+#customize-control-archive_layout .customizer-control-row:nth-child(3) input[type="radio"] + label { background:url('../images/layouts/f.png') no-repeat }
+#customize-control-single_layout .customizer-control-row:nth-child(3) input[type="radio"]+ label { background:url('../images/layouts/f.png') no-repeat }
+
+/* Footer Layout */
+#customize-control-footer_layout .customizer-control-row:nth-child(1) input[type="radio"] + label { background:url('../images/layouts/f1c.png') no-repeat }
+#customize-control-footer_layout .customizer-control-row:nth-child(2) input[type="radio"] + label { background:url('../images/layouts/f2c.png') no-repeat }
+#customize-control-footer_layout .customizer-control-row:nth-child(3) input[type="radio"] + label { background:url('../images/layouts/f3c.png') no-repeat }
+#customize-control-footer_layout .customizer-control-row:nth-child(4) input[type="radio"]+ label { background:url('../images/layouts/f4c.png') no-repeat }
+.customizer-control-row input[type="radio"]:checked + label {
+	-moz-box-shadow:0 0 0 4px #0074a2 inset;
+	-webkit-box-shadow:0 0 0 4px #0074a2 inset;
+	box-shadow:0 0 0 4px #0074a2 inset
+}
+div.customize-section-description {
+    background: rgb(229, 229, 229);
+    border-bottom: 1px solid rgb(204, 204, 204);
+    font-style: italic;
+    margin: 0px -12px;
+    padding: 20px;
+}
+.customize-divide {
+    margin:20px -20px;
+    text-transform:uppercase
+}
+.customize-control {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    position: relative
+}
+.customize-control:before {
+    position: absolute;
+    bottom: -2px;
+    content: '';
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid #fff;
+    display: block
+}
+.customize-control-divide {
+    border-bottom: 0;
+    margin-bottom: 5px;
+    padding: 0
+}
+.customize-control-divide:before {
+    display: none
+}
+.customize-control-divide .customize-divide {
+    margin-bottom: 0
+}
+#customize-controls .description {
+    margin-bottom: 15px
+}
