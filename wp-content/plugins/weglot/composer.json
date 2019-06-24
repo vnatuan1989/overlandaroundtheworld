@@ -1,0 +1,31 @@
+{
+  "name": "weglot",
+  "type": "project",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Thomas DENEULIN",
+      "email": "thomas@weglot.com"
+    },
+    {
+      "name": "Remy BERDA",
+      "email": "remy@weglot.com"
+    }
+  ],
+  "require": {
+    "weglot/weglot-php": "^0.5"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "*",
+    "wp-coding-standards/wpcs": "^0.13.1",
+    "phpunit/phpunit": "^4"
+},
+"scripts": {
+    "post-install-cmd": [
+        "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+    ],
+    "post-update-cmd": [
+        "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+    ]
+}
+}
